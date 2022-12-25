@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Textbox">
+
+        <attr name="textbox_title" format="string"/>
+        <attr name="textbox_sentence" format="string"/>
+        <attr name="textbox_backcolor" format="color"/>
+        <attr name="textbox_colors" format="color"/>
+        <attr name="textbox_sizes" format="dimension"/>
+
+    </declare-styleable>
+
+</resources>
